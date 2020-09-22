@@ -1,5 +1,5 @@
 ---
 title: "My Blog"
-date: 9-22-2020
+date: 2020-09-22
 ---
 Hi, I'm Eric.
